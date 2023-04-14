@@ -8,9 +8,9 @@
   "author": "TheBarer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheBarer/html-builder-black/issues"
+    "url": "https://github.com/The-barer/HTML-builder-NODE-FS/issues"
   },
-  "homepage": "https://github.com/TheBarer/html-builder-black#readme",
+  "homepage": "https://github.com/The-barer/HTML-builder-NODE-FS#readme",
   "devDependencies": {
     "@types/node": "^16.11.4",
     "eslint": "^7.32.0"
