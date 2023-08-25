@@ -87,6 +87,7 @@ const blocks2 = [{
   ]
 }];
 
+
 function hashFragment(block, isRotated = false) {
   const hash = []
   //isRotated - обозначает расположение фрагмента, false с начала, true - с конца
@@ -166,3 +167,18 @@ console.log(layout(blocks2))
 
 
 
+
+
+/**
+ * stack = [];
+ * stack.push(root);
+ * 
+ * while (stack not empty) {
+ *    node = stack pop;
+ * 
+ *    soluion(node);
+ *    forEach (child of node) {
+ *      stack.push(node);
+ *    }
+ * }
+ */
